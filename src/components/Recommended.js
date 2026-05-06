@@ -17,7 +17,7 @@ function Recommended() {
                     <h3>2026 Python data Visualization Masterclass</h3>
                     <p>Col steele</p>
                     <p>4.9⭐⭐⭐⭐</p>
-                    <p>₹499 <del> ₹999</del></p>
+                    <p>₹499 <del> ₹999</del></p> 
                 </div>
 
                 <div className="course-card">
